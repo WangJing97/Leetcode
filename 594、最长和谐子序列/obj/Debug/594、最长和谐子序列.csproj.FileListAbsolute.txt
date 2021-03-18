@@ -1,0 +1,7 @@
+D:\C#\LeetCode\594、最长和谐子序列\bin\Debug\594、最长和谐子序列.exe.config
+D:\C#\LeetCode\594、最长和谐子序列\bin\Debug\594、最长和谐子序列.exe
+D:\C#\LeetCode\594、最长和谐子序列\bin\Debug\594、最长和谐子序列.pdb
+D:\C#\LeetCode\594、最长和谐子序列\obj\Debug\594、最长和谐子序列.csprojAssemblyReference.cache
+D:\C#\LeetCode\594、最长和谐子序列\obj\Debug\594、最长和谐子序列.csproj.CoreCompileInputs.cache
+D:\C#\LeetCode\594、最长和谐子序列\obj\Debug\594、最长和谐子序列.exe
+D:\C#\LeetCode\594、最长和谐子序列\obj\Debug\594、最长和谐子序列.pdb

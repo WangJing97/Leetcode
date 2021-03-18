@@ -1,0 +1,7 @@
+H:\C#\LeetCode\LeetCode\125、验证回文串\bin\Debug\125、验证回文串.exe.config
+D:\PC\C#\LeetCode\LeetCode\125、验证回文串\bin\Debug\125、验证回文串.exe.config
+D:\PC\C#\LeetCode\LeetCode\125、验证回文串\bin\Debug\125、验证回文串.exe
+D:\PC\C#\LeetCode\LeetCode\125、验证回文串\bin\Debug\125、验证回文串.pdb
+D:\PC\C#\LeetCode\LeetCode\125、验证回文串\obj\Debug\125、验证回文串.csproj.CoreCompileInputs.cache
+D:\PC\C#\LeetCode\LeetCode\125、验证回文串\obj\Debug\125、验证回文串.exe
+D:\PC\C#\LeetCode\LeetCode\125、验证回文串\obj\Debug\125、验证回文串.pdb

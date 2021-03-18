@@ -1,0 +1,7 @@
+D:\C#\LeetCode\496、下一个更大元素 I\bin\Debug\496、下一个更大元素 I.exe.config
+D:\C#\LeetCode\496、下一个更大元素 I\bin\Debug\496、下一个更大元素 I.exe
+D:\C#\LeetCode\496、下一个更大元素 I\bin\Debug\496、下一个更大元素 I.pdb
+D:\C#\LeetCode\496、下一个更大元素 I\obj\Debug\496、下一个更大元素 I.csprojAssemblyReference.cache
+D:\C#\LeetCode\496、下一个更大元素 I\obj\Debug\496、下一个更大元素 I.csproj.CoreCompileInputs.cache
+D:\C#\LeetCode\496、下一个更大元素 I\obj\Debug\496、下一个更大元素 I.exe
+D:\C#\LeetCode\496、下一个更大元素 I\obj\Debug\496、下一个更大元素 I.pdb

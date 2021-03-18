@@ -1,0 +1,12 @@
+H:\C#\LeetCode\LeetCode\69、x 的平方根\bin\Debug\69、x 的平方根.exe.config
+H:\C#\LeetCode\LeetCode\69、x 的平方根\bin\Debug\69、x 的平方根.exe
+H:\C#\LeetCode\LeetCode\69、x 的平方根\bin\Debug\69、x 的平方根.pdb
+H:\C#\LeetCode\LeetCode\69、x 的平方根\obj\Debug\69、x 的平方根.csprojResolveAssemblyReference.cache
+H:\C#\LeetCode\LeetCode\69、x 的平方根\obj\Debug\69、x 的平方根.exe
+H:\C#\LeetCode\LeetCode\69、x 的平方根\obj\Debug\69、x 的平方根.pdb
+D:\PC\C#\LeetCode\LeetCode\69、x 的平方根\bin\Debug\69、x 的平方根.exe.config
+D:\PC\C#\LeetCode\LeetCode\69、x 的平方根\bin\Debug\69、x 的平方根.exe
+D:\PC\C#\LeetCode\LeetCode\69、x 的平方根\bin\Debug\69、x 的平方根.pdb
+D:\PC\C#\LeetCode\LeetCode\69、x 的平方根\obj\Debug\69、x 的平方根.csproj.CoreCompileInputs.cache
+D:\PC\C#\LeetCode\LeetCode\69、x 的平方根\obj\Debug\69、x 的平方根.exe
+D:\PC\C#\LeetCode\LeetCode\69、x 的平方根\obj\Debug\69、x 的平方根.pdb

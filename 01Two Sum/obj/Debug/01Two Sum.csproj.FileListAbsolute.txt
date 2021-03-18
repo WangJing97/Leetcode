@@ -1,0 +1,13 @@
+H:\C#\LeetCode\LeetCode\01Two Sum\bin\Debug\01Two Sum.exe.config
+H:\C#\LeetCode\LeetCode\01Two Sum\bin\Debug\01Two Sum.exe
+H:\C#\LeetCode\LeetCode\01Two Sum\bin\Debug\01Two Sum.pdb
+H:\C#\LeetCode\LeetCode\01Two Sum\obj\Debug\01Two Sum.exe
+H:\C#\LeetCode\LeetCode\01Two Sum\obj\Debug\01Two Sum.pdb
+H:\C#\LeetCode\LeetCode\01Two Sum\obj\Debug\01Two Sum.csprojResolveAssemblyReference.cache
+D:\PC\C#\LeetCode\LeetCode\01Two Sum\bin\Debug\01Two Sum.exe.config
+D:\PC\C#\LeetCode\LeetCode\01Two Sum\bin\Debug\01Two Sum.exe
+D:\PC\C#\LeetCode\LeetCode\01Two Sum\bin\Debug\01Two Sum.pdb
+D:\PC\C#\LeetCode\LeetCode\01Two Sum\obj\Debug\01Two Sum.csprojAssemblyReference.cache
+D:\PC\C#\LeetCode\LeetCode\01Two Sum\obj\Debug\01Two Sum.csproj.CoreCompileInputs.cache
+D:\PC\C#\LeetCode\LeetCode\01Two Sum\obj\Debug\01Two Sum.exe
+D:\PC\C#\LeetCode\LeetCode\01Two Sum\obj\Debug\01Two Sum.pdb

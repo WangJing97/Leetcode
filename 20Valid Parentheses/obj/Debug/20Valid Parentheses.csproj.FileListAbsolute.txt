@@ -1,0 +1,12 @@
+H:\C#\LeetCode\LeetCode\20Valid Parentheses\bin\Debug\20Valid Parentheses.exe.config
+H:\C#\LeetCode\LeetCode\20Valid Parentheses\bin\Debug\20Valid Parentheses.exe
+H:\C#\LeetCode\LeetCode\20Valid Parentheses\bin\Debug\20Valid Parentheses.pdb
+H:\C#\LeetCode\LeetCode\20Valid Parentheses\obj\Debug\20Valid Parentheses.csprojResolveAssemblyReference.cache
+H:\C#\LeetCode\LeetCode\20Valid Parentheses\obj\Debug\20Valid Parentheses.exe
+H:\C#\LeetCode\LeetCode\20Valid Parentheses\obj\Debug\20Valid Parentheses.pdb
+D:\PC\C#\LeetCode\LeetCode\20Valid Parentheses\bin\Debug\20Valid Parentheses.exe.config
+D:\PC\C#\LeetCode\LeetCode\20Valid Parentheses\bin\Debug\20Valid Parentheses.exe
+D:\PC\C#\LeetCode\LeetCode\20Valid Parentheses\bin\Debug\20Valid Parentheses.pdb
+D:\PC\C#\LeetCode\LeetCode\20Valid Parentheses\obj\Debug\20Valid Parentheses.csproj.CoreCompileInputs.cache
+D:\PC\C#\LeetCode\LeetCode\20Valid Parentheses\obj\Debug\20Valid Parentheses.exe
+D:\PC\C#\LeetCode\LeetCode\20Valid Parentheses\obj\Debug\20Valid Parentheses.pdb

@@ -1,0 +1,7 @@
+D:\PC\C#\LeetCode\LeetCode\228、汇总区间\bin\Debug\228、汇总区间.exe.config
+D:\PC\C#\LeetCode\LeetCode\228、汇总区间\bin\Debug\228、汇总区间.exe
+D:\PC\C#\LeetCode\LeetCode\228、汇总区间\bin\Debug\228、汇总区间.pdb
+D:\PC\C#\LeetCode\LeetCode\228、汇总区间\obj\Debug\228、汇总区间.csprojAssemblyReference.cache
+D:\PC\C#\LeetCode\LeetCode\228、汇总区间\obj\Debug\228、汇总区间.csproj.CoreCompileInputs.cache
+D:\PC\C#\LeetCode\LeetCode\228、汇总区间\obj\Debug\228、汇总区间.exe
+D:\PC\C#\LeetCode\LeetCode\228、汇总区间\obj\Debug\228、汇总区间.pdb

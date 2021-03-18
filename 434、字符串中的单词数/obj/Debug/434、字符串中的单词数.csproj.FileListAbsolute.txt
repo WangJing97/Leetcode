@@ -1,0 +1,7 @@
+D:\C#\LeetCode\434、字符串中的单词数\bin\Debug\434、字符串中的单词数.exe.config
+D:\C#\LeetCode\434、字符串中的单词数\bin\Debug\434、字符串中的单词数.exe
+D:\C#\LeetCode\434、字符串中的单词数\bin\Debug\434、字符串中的单词数.pdb
+D:\C#\LeetCode\434、字符串中的单词数\obj\Debug\434、字符串中的单词数.csprojAssemblyReference.cache
+D:\C#\LeetCode\434、字符串中的单词数\obj\Debug\434、字符串中的单词数.csproj.CoreCompileInputs.cache
+D:\C#\LeetCode\434、字符串中的单词数\obj\Debug\434、字符串中的单词数.exe
+D:\C#\LeetCode\434、字符串中的单词数\obj\Debug\434、字符串中的单词数.pdb

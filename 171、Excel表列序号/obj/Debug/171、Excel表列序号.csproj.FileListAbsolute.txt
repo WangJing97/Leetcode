@@ -1,0 +1,8 @@
+H:\C#\LeetCode\LeetCode\171、Excel表列序号\bin\Debug\171、Excel表列序号.exe.config
+D:\PC\C#\LeetCode\LeetCode\171、Excel表列序号\bin\Debug\171、Excel表列序号.exe.config
+D:\PC\C#\LeetCode\LeetCode\171、Excel表列序号\bin\Debug\171、Excel表列序号.exe
+D:\PC\C#\LeetCode\LeetCode\171、Excel表列序号\bin\Debug\171、Excel表列序号.pdb
+D:\PC\C#\LeetCode\LeetCode\171、Excel表列序号\obj\Debug\171、Excel表列序号.csprojAssemblyReference.cache
+D:\PC\C#\LeetCode\LeetCode\171、Excel表列序号\obj\Debug\171、Excel表列序号.csproj.CoreCompileInputs.cache
+D:\PC\C#\LeetCode\LeetCode\171、Excel表列序号\obj\Debug\171、Excel表列序号.exe
+D:\PC\C#\LeetCode\LeetCode\171、Excel表列序号\obj\Debug\171、Excel表列序号.pdb

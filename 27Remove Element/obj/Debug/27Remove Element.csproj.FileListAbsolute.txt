@@ -1,0 +1,12 @@
+H:\C#\LeetCode\LeetCode\27Remove Element\bin\Debug\27Remove Element.exe.config
+H:\C#\LeetCode\LeetCode\27Remove Element\bin\Debug\27Remove Element.exe
+H:\C#\LeetCode\LeetCode\27Remove Element\bin\Debug\27Remove Element.pdb
+H:\C#\LeetCode\LeetCode\27Remove Element\obj\Debug\27Remove Element.csprojResolveAssemblyReference.cache
+H:\C#\LeetCode\LeetCode\27Remove Element\obj\Debug\27Remove Element.exe
+H:\C#\LeetCode\LeetCode\27Remove Element\obj\Debug\27Remove Element.pdb
+D:\PC\C#\LeetCode\LeetCode\27Remove Element\bin\Debug\27Remove Element.exe.config
+D:\PC\C#\LeetCode\LeetCode\27Remove Element\bin\Debug\27Remove Element.exe
+D:\PC\C#\LeetCode\LeetCode\27Remove Element\bin\Debug\27Remove Element.pdb
+D:\PC\C#\LeetCode\LeetCode\27Remove Element\obj\Debug\27Remove Element.csproj.CoreCompileInputs.cache
+D:\PC\C#\LeetCode\LeetCode\27Remove Element\obj\Debug\27Remove Element.exe
+D:\PC\C#\LeetCode\LeetCode\27Remove Element\obj\Debug\27Remove Element.pdb

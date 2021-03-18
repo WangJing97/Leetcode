@@ -1,0 +1,13 @@
+H:\C#\LeetCode\LeetCode\09palindrome number\bin\Debug\09palindrome number.exe.config
+H:\C#\LeetCode\LeetCode\09palindrome number\bin\Debug\09palindrome number.exe
+H:\C#\LeetCode\LeetCode\09palindrome number\bin\Debug\09palindrome number.pdb
+H:\C#\LeetCode\LeetCode\09palindrome number\obj\Debug\09palindrome number.csprojResolveAssemblyReference.cache
+H:\C#\LeetCode\LeetCode\09palindrome number\obj\Debug\09palindrome number.exe
+H:\C#\LeetCode\LeetCode\09palindrome number\obj\Debug\09palindrome number.pdb
+D:\PC\C#\LeetCode\LeetCode\09palindrome number\bin\Debug\09palindrome number.exe.config
+D:\PC\C#\LeetCode\LeetCode\09palindrome number\bin\Debug\09palindrome number.exe
+D:\PC\C#\LeetCode\LeetCode\09palindrome number\bin\Debug\09palindrome number.pdb
+D:\PC\C#\LeetCode\LeetCode\09palindrome number\obj\Debug\09palindrome number.csprojAssemblyReference.cache
+D:\PC\C#\LeetCode\LeetCode\09palindrome number\obj\Debug\09palindrome number.csproj.CoreCompileInputs.cache
+D:\PC\C#\LeetCode\LeetCode\09palindrome number\obj\Debug\09palindrome number.exe
+D:\PC\C#\LeetCode\LeetCode\09palindrome number\obj\Debug\09palindrome number.pdb

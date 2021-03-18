@@ -1,0 +1,7 @@
+H:\C#\LeetCode\LeetCode\155、最小栈\bin\Debug\155、最小栈.exe.config
+D:\PC\C#\LeetCode\LeetCode\155、最小栈\bin\Debug\155、最小栈.exe.config
+D:\PC\C#\LeetCode\LeetCode\155、最小栈\bin\Debug\155、最小栈.exe
+D:\PC\C#\LeetCode\LeetCode\155、最小栈\bin\Debug\155、最小栈.pdb
+D:\PC\C#\LeetCode\LeetCode\155、最小栈\obj\Debug\155、最小栈.csproj.CoreCompileInputs.cache
+D:\PC\C#\LeetCode\LeetCode\155、最小栈\obj\Debug\155、最小栈.exe
+D:\PC\C#\LeetCode\LeetCode\155、最小栈\obj\Debug\155、最小栈.pdb

@@ -1,0 +1,12 @@
+H:\C#\LeetCode\LeetCode\35Search Insert Position\bin\Debug\35Search Insert Position.exe.config
+H:\C#\LeetCode\LeetCode\35Search Insert Position\obj\Debug\35Search Insert Position.csprojResolveAssemblyReference.cache
+H:\C#\LeetCode\LeetCode\35Search Insert Position\bin\Debug\35Search Insert Position.exe
+H:\C#\LeetCode\LeetCode\35Search Insert Position\bin\Debug\35Search Insert Position.pdb
+H:\C#\LeetCode\LeetCode\35Search Insert Position\obj\Debug\35Search Insert Position.exe
+H:\C#\LeetCode\LeetCode\35Search Insert Position\obj\Debug\35Search Insert Position.pdb
+D:\PC\C#\LeetCode\LeetCode\35Search Insert Position\bin\Debug\35Search Insert Position.exe.config
+D:\PC\C#\LeetCode\LeetCode\35Search Insert Position\bin\Debug\35Search Insert Position.exe
+D:\PC\C#\LeetCode\LeetCode\35Search Insert Position\bin\Debug\35Search Insert Position.pdb
+D:\PC\C#\LeetCode\LeetCode\35Search Insert Position\obj\Debug\35Search Insert Position.csproj.CoreCompileInputs.cache
+D:\PC\C#\LeetCode\LeetCode\35Search Insert Position\obj\Debug\35Search Insert Position.exe
+D:\PC\C#\LeetCode\LeetCode\35Search Insert Position\obj\Debug\35Search Insert Position.pdb

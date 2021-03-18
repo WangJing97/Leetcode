@@ -1,0 +1,7 @@
+D:\PC\C#\LeetCode\LeetCode\367、有效的完全平方数\bin\Debug\367、有效的完全平方数.exe.config
+D:\PC\C#\LeetCode\LeetCode\367、有效的完全平方数\bin\Debug\367、有效的完全平方数.exe
+D:\PC\C#\LeetCode\LeetCode\367、有效的完全平方数\bin\Debug\367、有效的完全平方数.pdb
+D:\PC\C#\LeetCode\LeetCode\367、有效的完全平方数\obj\Debug\367、有效的完全平方数.csprojAssemblyReference.cache
+D:\PC\C#\LeetCode\LeetCode\367、有效的完全平方数\obj\Debug\367、有效的完全平方数.csproj.CoreCompileInputs.cache
+D:\PC\C#\LeetCode\LeetCode\367、有效的完全平方数\obj\Debug\367、有效的完全平方数.exe
+D:\PC\C#\LeetCode\LeetCode\367、有效的完全平方数\obj\Debug\367、有效的完全平方数.pdb

@@ -1,0 +1,12 @@
+H:\C#\LeetCode\LeetCode\28-1KMP\bin\Debug\28-1KMP.exe.config
+H:\C#\LeetCode\LeetCode\28-1KMP\bin\Debug\28-1KMP.exe
+H:\C#\LeetCode\LeetCode\28-1KMP\bin\Debug\28-1KMP.pdb
+H:\C#\LeetCode\LeetCode\28-1KMP\obj\Debug\28-1KMP.csprojResolveAssemblyReference.cache
+H:\C#\LeetCode\LeetCode\28-1KMP\obj\Debug\28-1KMP.exe
+H:\C#\LeetCode\LeetCode\28-1KMP\obj\Debug\28-1KMP.pdb
+D:\PC\C#\LeetCode\LeetCode\28-1KMP\bin\Debug\28-1KMP.exe.config
+D:\PC\C#\LeetCode\LeetCode\28-1KMP\bin\Debug\28-1KMP.exe
+D:\PC\C#\LeetCode\LeetCode\28-1KMP\bin\Debug\28-1KMP.pdb
+D:\PC\C#\LeetCode\LeetCode\28-1KMP\obj\Debug\28-1KMP.csproj.CoreCompileInputs.cache
+D:\PC\C#\LeetCode\LeetCode\28-1KMP\obj\Debug\28-1KMP.exe
+D:\PC\C#\LeetCode\LeetCode\28-1KMP\obj\Debug\28-1KMP.pdb

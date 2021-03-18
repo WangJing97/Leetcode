@@ -1,0 +1,12 @@
+H:\C#\LeetCode\LeetCode\38Count and Say\bin\Debug\38Count and Say.exe.config
+H:\C#\LeetCode\LeetCode\38Count and Say\bin\Debug\38Count and Say.exe
+H:\C#\LeetCode\LeetCode\38Count and Say\bin\Debug\38Count and Say.pdb
+H:\C#\LeetCode\LeetCode\38Count and Say\obj\Debug\38Count and Say.csprojResolveAssemblyReference.cache
+H:\C#\LeetCode\LeetCode\38Count and Say\obj\Debug\38Count and Say.exe
+H:\C#\LeetCode\LeetCode\38Count and Say\obj\Debug\38Count and Say.pdb
+D:\PC\C#\LeetCode\LeetCode\38Count and Say\bin\Debug\38Count and Say.exe.config
+D:\PC\C#\LeetCode\LeetCode\38Count and Say\bin\Debug\38Count and Say.exe
+D:\PC\C#\LeetCode\LeetCode\38Count and Say\bin\Debug\38Count and Say.pdb
+D:\PC\C#\LeetCode\LeetCode\38Count and Say\obj\Debug\38Count and Say.csproj.CoreCompileInputs.cache
+D:\PC\C#\LeetCode\LeetCode\38Count and Say\obj\Debug\38Count and Say.exe
+D:\PC\C#\LeetCode\LeetCode\38Count and Say\obj\Debug\38Count and Say.pdb

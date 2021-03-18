@@ -1,0 +1,12 @@
+H:\C#\LeetCode\LeetCode\28Implement strStr()\bin\Debug\28Implement strStr().exe.config
+H:\C#\LeetCode\LeetCode\28Implement strStr()\bin\Debug\28Implement strStr().exe
+H:\C#\LeetCode\LeetCode\28Implement strStr()\bin\Debug\28Implement strStr().pdb
+H:\C#\LeetCode\LeetCode\28Implement strStr()\obj\Debug\28Implement strStr().csprojResolveAssemblyReference.cache
+H:\C#\LeetCode\LeetCode\28Implement strStr()\obj\Debug\28Implement strStr().exe
+H:\C#\LeetCode\LeetCode\28Implement strStr()\obj\Debug\28Implement strStr().pdb
+D:\PC\C#\LeetCode\LeetCode\28Implement strStr()\bin\Debug\28Implement strStr().exe.config
+D:\PC\C#\LeetCode\LeetCode\28Implement strStr()\bin\Debug\28Implement strStr().exe
+D:\PC\C#\LeetCode\LeetCode\28Implement strStr()\bin\Debug\28Implement strStr().pdb
+D:\PC\C#\LeetCode\LeetCode\28Implement strStr()\obj\Debug\28Implement strStr().csproj.CoreCompileInputs.cache
+D:\PC\C#\LeetCode\LeetCode\28Implement strStr()\obj\Debug\28Implement strStr().exe
+D:\PC\C#\LeetCode\LeetCode\28Implement strStr()\obj\Debug\28Implement strStr().pdb

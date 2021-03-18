@@ -1,0 +1,8 @@
+H:\C#\LeetCode\LeetCode\172、阶乘后的零\bin\Debug\172、阶乘后的零.exe.config
+D:\PC\C#\LeetCode\LeetCode\172、阶乘后的零\bin\Debug\172、阶乘后的零.exe.config
+D:\PC\C#\LeetCode\LeetCode\172、阶乘后的零\bin\Debug\172、阶乘后的零.exe
+D:\PC\C#\LeetCode\LeetCode\172、阶乘后的零\bin\Debug\172、阶乘后的零.pdb
+D:\PC\C#\LeetCode\LeetCode\172、阶乘后的零\obj\Debug\172、阶乘后的零.csprojAssemblyReference.cache
+D:\PC\C#\LeetCode\LeetCode\172、阶乘后的零\obj\Debug\172、阶乘后的零.csproj.CoreCompileInputs.cache
+D:\PC\C#\LeetCode\LeetCode\172、阶乘后的零\obj\Debug\172、阶乘后的零.exe
+D:\PC\C#\LeetCode\LeetCode\172、阶乘后的零\obj\Debug\172、阶乘后的零.pdb

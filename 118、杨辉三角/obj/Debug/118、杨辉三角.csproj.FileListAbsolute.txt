@@ -1,0 +1,12 @@
+H:\C#\LeetCode\LeetCode\118、杨辉三角\bin\Debug\118、杨辉三角.exe.config
+H:\C#\LeetCode\LeetCode\118、杨辉三角\bin\Debug\118、杨辉三角.exe
+H:\C#\LeetCode\LeetCode\118、杨辉三角\bin\Debug\118、杨辉三角.pdb
+H:\C#\LeetCode\LeetCode\118、杨辉三角\obj\Debug\118、杨辉三角.csprojResolveAssemblyReference.cache
+H:\C#\LeetCode\LeetCode\118、杨辉三角\obj\Debug\118、杨辉三角.exe
+H:\C#\LeetCode\LeetCode\118、杨辉三角\obj\Debug\118、杨辉三角.pdb
+D:\PC\C#\LeetCode\LeetCode\118、杨辉三角\bin\Debug\118、杨辉三角.exe.config
+D:\PC\C#\LeetCode\LeetCode\118、杨辉三角\bin\Debug\118、杨辉三角.exe
+D:\PC\C#\LeetCode\LeetCode\118、杨辉三角\bin\Debug\118、杨辉三角.pdb
+D:\PC\C#\LeetCode\LeetCode\118、杨辉三角\obj\Debug\118、杨辉三角.csproj.CoreCompileInputs.cache
+D:\PC\C#\LeetCode\LeetCode\118、杨辉三角\obj\Debug\118、杨辉三角.exe
+D:\PC\C#\LeetCode\LeetCode\118、杨辉三角\obj\Debug\118、杨辉三角.pdb

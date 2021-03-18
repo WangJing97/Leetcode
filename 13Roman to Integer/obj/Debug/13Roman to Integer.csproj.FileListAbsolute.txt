@@ -1,0 +1,12 @@
+H:\C#\LeetCode\LeetCode\13Roman to Integer\bin\Debug\13Roman to Integer.exe.config
+H:\C#\LeetCode\LeetCode\13Roman to Integer\bin\Debug\13Roman to Integer.exe
+H:\C#\LeetCode\LeetCode\13Roman to Integer\bin\Debug\13Roman to Integer.pdb
+H:\C#\LeetCode\LeetCode\13Roman to Integer\obj\Debug\13Roman to Integer.csprojResolveAssemblyReference.cache
+H:\C#\LeetCode\LeetCode\13Roman to Integer\obj\Debug\13Roman to Integer.exe
+H:\C#\LeetCode\LeetCode\13Roman to Integer\obj\Debug\13Roman to Integer.pdb
+D:\PC\C#\LeetCode\LeetCode\13Roman to Integer\bin\Debug\13Roman to Integer.exe.config
+D:\PC\C#\LeetCode\LeetCode\13Roman to Integer\bin\Debug\13Roman to Integer.exe
+D:\PC\C#\LeetCode\LeetCode\13Roman to Integer\bin\Debug\13Roman to Integer.pdb
+D:\PC\C#\LeetCode\LeetCode\13Roman to Integer\obj\Debug\13Roman to Integer.csproj.CoreCompileInputs.cache
+D:\PC\C#\LeetCode\LeetCode\13Roman to Integer\obj\Debug\13Roman to Integer.exe
+D:\PC\C#\LeetCode\LeetCode\13Roman to Integer\obj\Debug\13Roman to Integer.pdb

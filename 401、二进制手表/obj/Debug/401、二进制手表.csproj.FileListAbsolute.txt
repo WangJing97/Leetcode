@@ -1,0 +1,7 @@
+D:\C#\LeetCode\401、二进制手表\bin\Debug\401、二进制手表.exe.config
+D:\C#\LeetCode\401、二进制手表\bin\Debug\401、二进制手表.exe
+D:\C#\LeetCode\401、二进制手表\bin\Debug\401、二进制手表.pdb
+D:\C#\LeetCode\401、二进制手表\obj\Debug\401、二进制手表.csprojAssemblyReference.cache
+D:\C#\LeetCode\401、二进制手表\obj\Debug\401、二进制手表.csproj.CoreCompileInputs.cache
+D:\C#\LeetCode\401、二进制手表\obj\Debug\401、二进制手表.exe
+D:\C#\LeetCode\401、二进制手表\obj\Debug\401、二进制手表.pdb

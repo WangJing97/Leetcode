@@ -1,0 +1,12 @@
+H:\C#\LeetCode\LeetCode\66、加一\bin\Debug\66、加一.exe.config
+H:\C#\LeetCode\LeetCode\66、加一\bin\Debug\66、加一.exe
+H:\C#\LeetCode\LeetCode\66、加一\bin\Debug\66、加一.pdb
+H:\C#\LeetCode\LeetCode\66、加一\obj\Debug\66、加一.csprojResolveAssemblyReference.cache
+H:\C#\LeetCode\LeetCode\66、加一\obj\Debug\66、加一.exe
+H:\C#\LeetCode\LeetCode\66、加一\obj\Debug\66、加一.pdb
+D:\PC\C#\LeetCode\LeetCode\66、加一\bin\Debug\66、加一.exe.config
+D:\PC\C#\LeetCode\LeetCode\66、加一\bin\Debug\66、加一.exe
+D:\PC\C#\LeetCode\LeetCode\66、加一\bin\Debug\66、加一.pdb
+D:\PC\C#\LeetCode\LeetCode\66、加一\obj\Debug\66、加一.csproj.CoreCompileInputs.cache
+D:\PC\C#\LeetCode\LeetCode\66、加一\obj\Debug\66、加一.exe
+D:\PC\C#\LeetCode\LeetCode\66、加一\obj\Debug\66、加一.pdb
