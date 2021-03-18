@@ -271,6 +271,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "637、二叉树的层平均
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "643、子数组最大平均数 I", "643、子数组最大平均数 I\643、子数组最大平均数 I.csproj", "{AC2B180E-D579-4C36-A8BB-C71E38B1ABBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "645、错误的集合", "645、错误的集合\645、错误的集合.csproj", "{6748E25C-74CE-408C-BEC1-5DF6C189510D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1889,6 +1891,18 @@ Global
 		{AC2B180E-D579-4C36-A8BB-C71E38B1ABBE}.Release|x64.Build.0 = Release|Any CPU
 		{AC2B180E-D579-4C36-A8BB-C71E38B1ABBE}.Release|x86.ActiveCfg = Release|Any CPU
 		{AC2B180E-D579-4C36-A8BB-C71E38B1ABBE}.Release|x86.Build.0 = Release|Any CPU
+		{6748E25C-74CE-408C-BEC1-5DF6C189510D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6748E25C-74CE-408C-BEC1-5DF6C189510D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6748E25C-74CE-408C-BEC1-5DF6C189510D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6748E25C-74CE-408C-BEC1-5DF6C189510D}.Debug|x64.Build.0 = Debug|Any CPU
+		{6748E25C-74CE-408C-BEC1-5DF6C189510D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6748E25C-74CE-408C-BEC1-5DF6C189510D}.Debug|x86.Build.0 = Debug|Any CPU
+		{6748E25C-74CE-408C-BEC1-5DF6C189510D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6748E25C-74CE-408C-BEC1-5DF6C189510D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6748E25C-74CE-408C-BEC1-5DF6C189510D}.Release|x64.ActiveCfg = Release|Any CPU
+		{6748E25C-74CE-408C-BEC1-5DF6C189510D}.Release|x64.Build.0 = Release|Any CPU
+		{6748E25C-74CE-408C-BEC1-5DF6C189510D}.Release|x86.ActiveCfg = Release|Any CPU
+		{6748E25C-74CE-408C-BEC1-5DF6C189510D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
